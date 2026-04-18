@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Phạm Anh Ngữ
 
 ## About me
-- I'm a student in IS at Can Tho University
+- I'm a student at Can Tho University, majoring in Information Systems
 - Currently learning Web Development and AI
 - Interested in :
 
@@ -29,7 +29,7 @@
 
 ### ⚙️ Tools
 <p>
-  <img src="./icons/git.svg" width="40" style="margin:10px"; transition:0.2s/>
+  <img src="./icons/git.svg" width="40" style="margin:10px"/>
 </p>
 
 ## Projects
