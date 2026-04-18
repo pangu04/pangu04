@@ -3,7 +3,7 @@
 ## About me
 - I'm a student at Can Tho University, majoring in Information Systems
 - Currently learning Web Development and AI
-- Interested in :
+- Interested in Backend Development and AI applications
 
 ## Skills
 
