@@ -39,10 +39,9 @@
 ## Contact
 - Email: anhngu.pham2004@gmail.com
 
-Thanks for visiting my profile!
-
 ## 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=pangu04&show_icons=true&theme=tokyonight&hide=contribs)
 ## 📊 Top langs
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pangu04&layout=compact)
 
+# Thanks for visiting my profile!
