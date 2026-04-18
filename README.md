@@ -1,46 +1,38 @@
-## Hi there 👋
-
-<!--
-**pangu04/pangu04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
 # 👋 Hi, I'm Phạm Anh Ngữ
 
-## 🚀 About me
-- 🎓 I'm a student in IT
-- 💻 Currently learning Web Development and AI
-- 🎯 Interested in Backend (PHP, Laravel)
+## About me
+- I'm a student in IS at Can Tho University
+- Currently learning Web Development and AI
+- Interested in :
 
-## 🛠️ Skills
-- PHP / Laravel
-- MySQL
-- HTML, CSS, JavaScript
+## Skills
 
-## 📌 Projects
-- 🏫 English Center Management System
-- 🍽️ Restaurant Management System
+### 💻 Programming Languages
+<p>
+  <img src="./icons/c.svg" width="40"/>
+  <img src="./icons/java.svg" width="40"/>
+  <img src="./icons/kotlin.svg" width="40"/>
+  <img src="./icons/php.svg" width="40"/>
+  <img src="./icons/python.svg" width="40"/>
+</p>
 
-## 📫 Contact
-- 📧 Email: anhngu.pham2004@gmail.com
+### 🌐 Web Technologies
+<p>
+  <img src="./icons/html.svg" width="40"/>
+  <img src="./icons/css.svg" width="40"/>
+</p>
 
-⭐ Thanks for visiting my profile!
+## Projects
+- English Center Management System
+- Restaurant Management System
+
+## Contact
+- Email: anhngu.pham2004@gmail.com
+
+Thanks for visiting my profile!
 
 ## 📊 GitHub Stats
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=pangu04&show_icons=true&theme=tokyonight&hide=contribs)
-
+## 📊 Top langs
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pangu04&layout=compact)
 
