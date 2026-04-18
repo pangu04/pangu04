@@ -44,3 +44,7 @@ Here are some ideas to get you started:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=pangu04&show_icons=true)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=phamanhngu&show_icons=true&theme=tokyonight&hide=contribs)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phamanhngu&layout=compact)
+
