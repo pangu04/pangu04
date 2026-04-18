@@ -7,7 +7,7 @@
 
 ## Skills
 
-### Programming Languages
+### - Programming Languages
 <p>
   <img src="./icons/c.svg" width="40" style="margin:10px"/>
   <img src="./icons/java.svg" width="40" style="margin:10px"/>
@@ -16,18 +16,18 @@
   <img src="./icons/python.png" width="40" style="margin:10px"/>
 </p>
 
-### Web Technologies
+### - Web Technologies
 <p>
   <img src="./icons/html.svg" width="40" style="margin:10px"/>
   <img src="./icons/css.svg" width="40" style="margin:10px"/>
 </p>
 
-### Frameworks
+### - Frameworks
 <p>
   <img src="./icons/Laravel.png" width="40" style="margin:10px"/>
 </p>
 
-### Tools
+### - Tools
 <p>
   <img src="./icons/git.svg" width="40" style="margin:10px"/>
 </p>
