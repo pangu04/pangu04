@@ -14,3 +14,33 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+# 👋 Hi, I'm Pham Anh Ngu
+
+## 🚀 About me
+- 🎓 I'm a student in IT
+- 💻 Currently learning Web Development
+- 🎯 Interested in Backend (PHP, Laravel)
+
+## 🛠️ Skills
+- PHP / Laravel
+- MySQL
+- HTML, CSS, JavaScript
+
+## 📌 Projects
+- 🏫 English Center Management System
+- 🍽️ Restaurant Management System
+
+## 📫 Contact
+- 📧 Email: anhngu.pham2004@gmail.com
+
+---
+
+⭐ Thanks for visiting my profile!
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=phamanhngu&show_icons=true)
+
