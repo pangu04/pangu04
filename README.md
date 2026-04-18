@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 
 
-# 👋 Hi, I'm Pham Anh Ngu
+# 👋 Hi, I'm Phạm Anh Ngữ
 
 ## 🚀 About me
 - 🎓 I'm a student in IT
-- 💻 Currently learning Web Development
+- 💻 Currently learning Web Development and AI
 - 🎯 Interested in Backend (PHP, Laravel)
 
 ## 🛠️ Skills
@@ -36,13 +36,9 @@ Here are some ideas to get you started:
 ## 📫 Contact
 - 📧 Email: anhngu.pham2004@gmail.com
 
----
-
 ⭐ Thanks for visiting my profile!
 
 ## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=pangu04&show_icons=true)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=pangu04&show_icons=true&theme=tokyonight&hide=contribs)
 
