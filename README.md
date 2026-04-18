@@ -8,27 +8,27 @@
 ## Skills
 
 ### 💻 Programming Languages
-<p align="center">
+<p>
   <img src="./icons/c.svg" width="40" style="margin:10px"/>
   <img src="./icons/java.svg" width="40" style="margin:10px"/>
   <img src="./icons/kotlin.svg" width="40" style="margin:10px"/>
   <img src="./icons/php.svg" width="40" style="margin:10px"/>
-  <img src="./icons/python.svg" width="40" style="margin:10px"/>
+  <img src="./icons/python.png" width="40" style="margin:10px"/>
 </p>
 
 ### 🌐 Web Technologies
-<p align="center">
+<p>
   <img src="./icons/html.svg" width="40" style="margin:10px"/>
   <img src="./icons/css.svg" width="40" style="margin:10px"/>
 </p>
 
 ### 🚀 Frameworks
-<p align="center">
+<p>
   <img src="./icons/Laravel.png" width="40" style="margin:10px"/>
 </p>
 
 ### ⚙️ Tools
-<p align="center">
+<p>
   <img src="./icons/git.svg" width="40" style="margin:10px"; transition:0.2s/>
 </p>
 
