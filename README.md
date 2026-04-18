@@ -9,22 +9,27 @@
 
 ### 💻 Programming Languages
 <p align="center">
-  <img src="./icons/c.svg" width="40"/>
-  <img src="./icons/java.svg" width="40"/>
-  <img src="./icons/kotlin.svg" width="40"/>
-  <img src="./icons/php.svg" width="40"/>
-  <img src="./icons/python.svg" width="40"/>
+  <img src="./icons/c.svg" width="40" style="margin:10px"/>
+  <img src="./icons/java.svg" width="40" style="margin:10px"/>
+  <img src="./icons/kotlin.svg" width="40" style="margin:10px"/>
+  <img src="./icons/php.svg" width="40" style="margin:10px"/>
+  <img src="./icons/python.svg" width="40" style="margin:10px"/>
 </p>
 
 ### 🌐 Web Technologies
 <p align="center">
-  <img src="./icons/html.svg" width="40"/>
-  <img src="./icons/css.svg" width="40"/>
+  <img src="./icons/html.svg" width="40" style="margin:10px"/>
+  <img src="./icons/css.svg" width="40" style="margin:10px"/>
+</p>
+
+### 🚀 Frameworks
+<p align="center">
+  <img src="./icons/Laravel.png" width="40" style="margin:10px"/>
 </p>
 
 ### ⚙️ Tools
 <p align="center">
-  <img src="./icons/git.svg" width="40"/>
+  <img src="./icons/git.svg" width="40" style="margin:10px"; transition:0.2s/>
 </p>
 
 ## Projects
