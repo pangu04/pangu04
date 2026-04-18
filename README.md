@@ -8,7 +8,7 @@
 ## Skills
 
 ### 💻 Programming Languages
-<p>
+<p align="center">
   <img src="./icons/c.svg" width="40"/>
   <img src="./icons/java.svg" width="40"/>
   <img src="./icons/kotlin.svg" width="40"/>
@@ -17,9 +17,14 @@
 </p>
 
 ### 🌐 Web Technologies
-<p>
+<p align="center">
   <img src="./icons/html.svg" width="40"/>
   <img src="./icons/css.svg" width="40"/>
+</p>
+
+### ⚙️ Tools
+<p align="center">
+  <img src="./icons/git.svg" width="40"/>
 </p>
 
 ## Projects
